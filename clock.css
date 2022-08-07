@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: 'Lucida Sans';
+    font-size:100px;
+    display: flex;
+    justify-content: center;
+    padding: 15%;
+    flex-direction: row;
+    overflow: hidden;
+    font-style:bold;
+}
